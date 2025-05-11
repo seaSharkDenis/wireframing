@@ -36,3 +36,43 @@ By stripping away visual design elements, wireframes allow designers to concentr
 ---
 
 ## Key Elements of Wireframing
+
+Wireframes serve as blueprints for digital interfaces, focusing on structure, layout, and functionality rather than aesthetics. Below are the core elements typically found in a wireframe and how they contribute to effective design:  
+
+## 🔑 Key Elements of a Wireframe (Booking Management System)
+
+Wireframes serve as blueprints for digital interfaces, focusing on structure, layout, and functionality rather than aesthetics. In the context of a **Booking Management System**, wireframes help design an intuitive and efficient experience for users to book, manage, and track reservations. Below are the core elements typically found in a wireframe and how they apply to a booking system:
+
+### 1. **Layout Structure**
+Defines the overall organization and arrangement of interface components. Ensures that essential features like booking calendars, user dashboards, and confirmation panels are placed logically.
+
+**Example:**  
+A common layout may include a vertical sidebar for quick access to "Bookings", "Customers", and "Reports", while the main content area displays a calendar or list view of bookings.
+
+---
+
+### 2. **Navigation**
+Represents how users move between different sections such as booking creation, history, and settings. Streamlines user flow so users can easily switch between creating a new booking, editing existing ones, or viewing reports.
+
+**Example:**  
+A top navigation bar with tabs like "New Booking", "My Bookings", "Customer Profiles", and "Notifications" lets users quickly access different features.
+
+---
+
+### 3. **Content Placement**
+Shows where text, forms, tables, and other elements are displayed on the interface. Highlights critical information and ensures that booking details, time slots, and customer data are easily visible and accessible.
+
+**Example:**  
+Placing the booking form prominently in the center of the page, with time slots listed on the left and customer information on the right, supports quick entry and decision-making.
+
+---
+
+### 4. **Functionality**
+Outlines interactive elements such as buttons, calendars, forms, filters, and modals. Displays how users interact with the system to create or manage bookings, including input validation and user feedback.
+
+**Example:**  
+A date picker and time slot selector within a booking form, paired with "Submit", "Cancel", and "Reschedule" buttons, provides clear actions and user control.
+
+---
+
+## Types of Wireframes
