@@ -90,3 +90,36 @@ High-fidelity Wireframes are more detailed and refined versions, that are often 
 The **Project Airbnb** used high-fidelity wireframes. This is becuase the wireframes resembel the final design. Colors, images, and even icons have been used, showing how every page looks like. The layout structure, navigation from one page to another, and even content placement has been defined on a finer level.
 
 ---
+
+## Wireframing Tools
+
+Wireframing tools help designers and developers create clear and functional interface blueprints. Here are some widely used tools for wireframing, ranging from simple sketching apps to robust UI design platforms:
+
+### Figma (Recommended)
+**Overview:**  
+Figma is a cloud-based design tool that allows users to create, share, and collaborate on interface designs in real time. It’s widely used for wireframing, prototyping, and high-fidelity UI design.
+
+**Key Features:**
+- **Browser-based and cross-platform:** No installation required; works on any OS.
+- **Real-time collaboration:** Multiple users can work on the same wireframe simultaneously.
+- **Design libraries and components:** Reusable elements for consistency and speed.
+- **Prototyping tools:** Add interactions to simulate user flows.
+- **Commenting and feedback:** Built-in tools for team reviews and discussions.
+
+**Why it's great for wireframing:**  
+Figma supports all stages of the wireframe process—from low-fidelity sketches to interactive high-fidelity mockups—and allows easy sharing with stakeholders or developers without exporting files.
+
+---
+
+### Other Tools to Consider
+                                            
+  - **Balsamiq**     : Focuses on low-fidelity, sketch-style wireframes. Great for quick ideation.  
+  - **Adobe XD**     : Offers both design and prototyping capabilities with support for plugins.  
+  - **Sketch**       : Mac-only vector-based design tool with strong UI component libraries.  
+  - **Axure RP**     : Geared toward advanced wireframes and logic-based interactive prototypes.  
+  - **Whimsical**    : User-friendly tool for quick wireframes, mind maps, and flowcharts.  
+  - **Lucidchart**   : Ideal for flow diagrams and basic wireframes in collaborative environments.  
+
+---
+
+## Benefits of Wireframing in Software Development
