@@ -39,7 +39,7 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 Wireframes serve as blueprints for digital interfaces, focusing on structure, layout, and functionality rather than aesthetics. Below are the core elements typically found in a wireframe and how they contribute to effective design:  
 
-## 🔑 Key Elements of a Wireframe (Booking Management System)
+## Key Elements of a Wireframe (Booking Management System)
 
 Wireframes serve as blueprints for digital interfaces, focusing on structure, layout, and functionality rather than aesthetics. In the context of a **Booking Management System**, wireframes help design an intuitive and efficient experience for users to book, manage, and track reservations. Below are the core elements typically found in a wireframe and how they apply to a booking system:
 
