@@ -76,3 +76,17 @@ A date picker and time slot selector within a booking form, paired with "Submit"
 ---
 
 ## Types of Wireframes
+
+### Low-Fidelity Wireframes
+
+These are simple sketeches or basic digital layouts that focus on overall structure and functionality without detailed design.
+
+### High-Fidelity Wireframes
+
+High-fidelity Wireframes are more detailed and refined versions, that are often close to the final deesign. They include more specific layout and design elements.
+
+--
+
+The **Project Airbnb** used high-fidelity wireframes. This is becuase the wireframes resembel the final design. Colors, images, and even icons have been used, showing how every page looks like. The layout structure, navigation from one page to another, and even content placement has been defined on a finer level.
+
+--
