@@ -85,8 +85,8 @@ These are simple sketeches or basic digital layouts that focus on overall struct
 
 High-fidelity Wireframes are more detailed and refined versions, that are often close to the final deesign. They include more specific layout and design elements.
 
---
+---
 
 The **Project Airbnb** used high-fidelity wireframes. This is becuase the wireframes resembel the final design. Colors, images, and even icons have been used, showing how every page looks like. The layout structure, navigation from one page to another, and even content placement has been defined on a finer level.
 
---
+---
