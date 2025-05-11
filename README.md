@@ -168,3 +168,33 @@ A high-fidelity wireframe of the “Booking Calendar” helps frontend developer
 
 Wireframing ultimately improves design accuracy, boosts team productivity, and ensures that the final product meets user needs and business goals.
 
+---
+
+## Real-World Scenario: Wireframing Reveals Usability Issues Early
+
+### Scenario:
+While designing a **Booking Management System**, the design team created wireframes to map out the user journey—from selecting a service to confirming a booking.
+
+During a feedback session, stakeholders and potential users reviewed the wireframe of the **"New Booking" form**, which included the following:
+
+- Customer information section at the bottom of the page
+- Service and date/time selection at the top
+- A "Submit Booking" button below the calendar
+
+### Identified Usability Issues:
+1. **Customer details were entered last**, after selecting a service and time. However, users often needed to search for existing customers first before proceeding.
+2. **The "Submit" button's location was inconsistent** on smaller screens and could be missed when the page scrolled.
+3. **Confusion between "Save as Draft" and "Submit"**—the buttons looked similar and lacked clear separation.
+
+### Resolution:
+Based on wireframe feedback:
+- The **customer search and selection panel** was moved to the top, making it the first step.
+- The **"Submit Booking" button** was made sticky at the bottom-right of the viewport for better visibility.
+- **Button colors and spacing were adjusted** to differentiate "Submit" from "Save as Draft" and prevent accidental clicks.
+
+### Impact on the Final Product:
+- The redesign improved booking speed after launch.
+- Fewer user errors were reported, and customer satisfaction scores increased due to the more intuitive flow.
+- Developers saved time by avoiding late-stage rework, as the issues were addressed before coding began.
+
+---
